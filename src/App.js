@@ -1,5 +1,5 @@
 import InputShortener from "./components/InputShortener"
-
+import './App.css'
 function App() {
   return (
     <div class="container">
