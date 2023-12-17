@@ -1,0 +1,60 @@
+/* InputShortener.css */
+
+.inputContainer {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  span {
+    color: #3498db;
+  }
+  
+  input[type="text"] {
+    width: 80%; /* Set the first input to take up 80% of the width */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input.back-half {
+    width: 60%;
+   }
+  /* Additional styles for the second input */
+  input[type="text"].back-half {
+    width: 40%; /* Set the second input to take up 80% of the width */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #3498db;
+    margin: 5px;
+    color: #fff;
+    padding: 10px; /* Adjust padding as needed */
+    width: 10%; /* Set the button to take up 20% of the width */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #217dbb;
+  }
+
+  input.long-url {
+    width: 50%;
+  }
+  
+
+  
