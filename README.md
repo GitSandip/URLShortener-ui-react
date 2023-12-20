@@ -2,7 +2,7 @@
 
 URL Shortener is a web application that allows users to create shortened URLs, making it easier to share links. It includes features such as custom back-halves and redirection.
 
-**Backend Repository:** [URL Shortener API](https://github.com/GitSandip/url-shortener-api)
+**Backend Repository:** [URL Shortener API](https://github.com/GitSandip/url-shortener-api/tree/master)
 
 ## Project Overview
 
