@@ -28,7 +28,7 @@ const InputShortener = () => {
   const handleCopyClick = () => {
     // Copy the short URL to the clipboard
     navigator.clipboard.writeText(shortUrl);
-    // Optionally, provide some user feedback (e.g., tooltip, notification)
+    
     alert('Short URL copied to clipboard!');
   };
 
